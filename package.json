@@ -1,0 +1,25 @@
+{
+  "name": "testes-projeto-1-tpengsoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xnilkka/testes-projeto-1-tpengsoft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Xnilkka/testes-projeto-1-tpengsoft/issues"
+  },
+  "homepage": "https://github.com/Xnilkka/testes-projeto-1-tpengsoft#readme",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.8",
+    "vitest": "^4.1.8"
+  }
+}
